@@ -34,6 +34,4 @@ The repository includes example projects and tutorials covering common use cases
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-This README.md is structured to give a clear, professional overview of the project, its components, and the practical skills it demonstrates. The inclusion of status badges, straightforward instructions, and a warm invitation to contribute makes it engaging and accessible to other developers.
